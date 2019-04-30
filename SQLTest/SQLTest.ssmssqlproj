@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQLTest">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-RDB9LMV:DESKTOP-RDB9LMV\astru">
+          <Created>2019-04-30T16:31:47.081457+10:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-RDB9LMV</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SQLExercise.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RDB9LMV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RDB9LMV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLExercise.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RDB9LMV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RDB9LMV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PopulateDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RDB9LMV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RDB9LMV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>PopulateDatabase.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
